@@ -23,7 +23,7 @@
 
 ### 😂 Random Dev Meme
 
-![](https://codermemes.vercel.app)
+![](https://codermemes.vercel.app/#1)
 
 ---
 
