@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=harshitj183&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app' style="height: 400px;"/>
+<img src='https://codermemes.vercel.app' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshitj183&icon=0&color=1)](https://visitcount.itsvg.in)
