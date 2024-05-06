@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hey, I'm Harshit Jaiswal! 🎓 Engineering student at KR Mangalam University (2023-2027) <br>🚀 Passionate about coding, development, and problem-solving<br> 💻 Learning HTML, CSS, Python, C++, JavaScript, and DSA <br>🌟 Let's connect and share our tech journey! #TechEnthusiast #DeveloperLife<br>
+<br>👋 Hey, I'm Harshit Jaiswal!  (AKA @harshitj183)🎓 Engineering student at KR Mangalam University (2023-2027) <br>🚀 Passionate about coding, development, and problem-solving<br> 💻 Learning HTML, CSS, Python, C++, JavaScript, and DSA <br>🌟 Let's connect and share our tech journey! #TechEnthusiast #DeveloperLife<br>
 
 
 ## 🌐 Socials:
