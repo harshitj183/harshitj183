@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshitj183&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<span><img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj183&layout=compact&hide=php&langs_count=6" /></span>
+<span><a href="https://wakatime.com/@aulianza"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitj183&layout=compact&langs_count=6" /></a></span>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harshitj183&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
