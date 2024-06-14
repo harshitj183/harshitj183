@@ -8,7 +8,7 @@ badge.classList.add('badge');
 // Create the logo element
 const logo = document.createElement('img');
 logo.classList.add('logo');
-logo.src = 'profileLOgo.png';
+logo.src = 'https://cdn.statically.io/gh/harshitj183/harshitj183/main/badge/profileLOgo.png';
 logo.alt = 'Google logo';
 
 // Create the text element
