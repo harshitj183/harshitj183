@@ -1,5 +1,9 @@
 
   //<script src="https://cdn.githubraw.com/harshitj183/harshitj183/main/badge/floating.js" </script>
+// fetch('https://cdn.jsdelivr.net/gh/harshitj183/harshitj183@main/badge/floating.js')
+//  .then(response => response.text())
+//  .then(script => eval(script));
+
 
 // Create the badge element
 const badge = document.createElement('div');
