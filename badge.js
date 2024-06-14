@@ -1,5 +1,5 @@
 
-  <script src="https://cdn.statically.io/gh/harshitj183/harshitj183/main/badge.js" </script>
+  //<script src="https://cdn.statically.io/gh/harshitj183/harshitj183/main/badge.js" </script>
 
 // Create the badge element
 const badge = document.createElement('div');
