@@ -61,7 +61,7 @@
       border-radius: 3px;
       font-size: 10px;
       color: #fff;
-      width: 150px;
+      width: 120px;
       height: 30px;
       animation: trending 2s infinite;
     }
