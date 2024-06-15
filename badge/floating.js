@@ -3,7 +3,7 @@
 // fetch('https://cdn.jsdelivr.net/gh/harshitj183/harshitj183@main/badge/floating.js')
 //  .then(response => response.text())
 //  .then(script => eval(script));
-  
+ 
   // Create the badge element
   const badge = document.createElement('div');
   badge.id = 'badge_843219';
@@ -76,6 +76,11 @@
       border: 2px solid #fff;
       border-bottom: 2px solid #4285f4;
       border-radius: 50% 50% 50% 50%/60% 60% 40% 40%;
+      transition: transform 0.2s ease-in-out;
+    }
+
+  #logo_982134:hover {
+      transform: rotate(360deg) scale(1.1);
     }
 
   #text_654321 {
@@ -122,4 +127,3 @@
     developedByText.style.display = 'block';
     fullName.style.display = 'none';
   });
- 
