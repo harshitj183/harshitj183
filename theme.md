@@ -1,7 +1,7 @@
     --primary-100:#4285f4;
     --primary-200:#002fa7;
-    --primary-300:#d7e8f9;
-    --accent-100:#6050dc;
+    --primary-300:#dffffd;
+    --accent-100:#8a2be2;
     --accent-200:#ccccff;
     --text-100:#1f305e;
     --text-200:#4d598c;
