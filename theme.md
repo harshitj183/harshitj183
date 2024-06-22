@@ -1,4 +1,6 @@
-    --primary-100:#4285f4;
+   light mode
+   
+   --primary-100:#4285f4;
     --primary-200:#002fa7;
     --primary-300:#dffffd;
     --accent-100:#8a2be2;
