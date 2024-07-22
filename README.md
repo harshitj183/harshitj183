@@ -13,12 +13,7 @@
 - **Languages**: HTML, CSS, JavaScript, Python, C++
 - **Web Development**: SEO, blogging, Google Search Console, blog management, domain management, Progressive Web Apps (PWA)
 - **Tools**: Google Cloud, Firebase, Canva, Blogger, WordPress, Cloudflare, Replit, GitHub, some knowledge of Figma and Adobe tools
-
-### 📊 GitHub Stats
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitj183&show_icons=true&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitj183&theme=radical)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj183&layout=compact&theme=radical)
-
+ 
 ### 📜 Certifications
 1. <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" width="20"/> Certificate of Participation in Round 1: The Mind Maze of Nestlé Leaders League - Genesis from Unstop (June 2024) - Credential ID: 0e955a1a-89e8-471e-b6f1-4a609cccc7ec
 2. <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" width="20"/> Introduction to Career Skills in Software Development from LinkedIn (June 2024) - Skills: Career Management, Software Development, Tech Career Skills
