@@ -31,45 +31,41 @@
 - Exploring new technologies and exciting projects
 - Dream job: Working as a freelancer and in organizations like DRDO and ISRO to contribute significantly to my country
 # 📊 GitHub Stats:
-<div align="center">
+<div  >
 <img src="https://github-readme-stats.vercel.app/api?username=harshitj183&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitj183&theme=dark&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-<div align="center">
+<div  >
 <span><a href="https://wakatime.com/@harshitj183"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitj183&theme=dark&layout=compact&langs_count=6" /></a></span>
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center">
+<div  >
 <img src="https://github-profile-trophy.vercel.app/?username=harshitj183&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 ### ✍️ Random Dev Quote
-<div align="center">
+<div  >
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ### 🔝 Top Contributed Repo
-<div align="center">
+<div >
 <img src="https://github-contributor-stats.vercel.app/api?username=harshitj183&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
 </div>
-
-### 😂 Random Dev Meme
-<div align="center">
-<img src="https://codermemes.vercel.app/" alt="Random Dev Meme" />
-</div>
+ 
 
 ## 💰 You can help me by Donating
-<div align="center">
+<div>
 <a href="https://buymeacoffee.com/harshitj183"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 <a href="https://paypal.me/harshitj183.in"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 <a href="https://patreon.com/harshitj183"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
 <a href="https://ko-fi.com/harshitj183"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 </div>
 
-<p align="center">
+<p>
 <img src="https://github.com/harshitj183/harshitj183/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
