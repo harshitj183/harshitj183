@@ -3,7 +3,7 @@
 ### 🎓 About Me
 - **Computer Science and Engineering student** at KR Mangalam University, Haryana, Delhi NCR
 - Currently in my **second year** of studies (Class of 2027)
-- Passed 10th and 12th from **S Tulsi Inter College, Rajapur, Chitrakoot** (UP Board)
+- Passed 10th and 12th from **S Tulsi Inter College** (UP Board)
 
 ### 🌱 Learning
 - HTML, CSS, JavaScript, Python, and DSA
