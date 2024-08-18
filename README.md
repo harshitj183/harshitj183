@@ -36,7 +36,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitj183&theme=dark&hide_border=false" /><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
-[![harshitj183's GitHub | Languages Over Time](https://stats.quira.sh/harshitj183/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=harshitj183)
+
 <div  >
 <span><a href="https://wakatime.com/@harshitj183"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitj183&theme=dark&layout=compact&langs_count=6" /></a></span>
 </div>
@@ -78,5 +78,5 @@
 - **Telegram**: [![Telegram](https://img.icons8.com/material-outlined/24/000000/telegram-app.png)](https://t.me/harshitj183)
 
 ---
-
+[![harshitj183's GitHub | Languages Over Time](https://stats.quira.sh/harshitj183/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=harshitj183)
 Always exploring, learning, and contributing!
