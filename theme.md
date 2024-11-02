@@ -23,3 +23,36 @@ Here's your light mode and dark mode color scheme with corresponding color emoji
 - `--bg-100: #1e293b <!-- Gunmetal --> ⚫`
 - `--bg-200: #334155 <!-- Charcoal Blue --> 🌑`
 - `--bg-300: #475569 <!-- Dark Slate Gray --> 🌌`
+
+
+  daisyui: {
+    themes: [
+      {
+        mytheme: {
+          
+"primary": "#4285f4",
+          
+"secondary": "#002fa7",
+          
+"accent": "#8a2be2",
+          
+"neutral": "#1f305e",
+          
+"base-100": "#d7e8f9",
+          
+"info": "#dffffd",
+          
+"success": "#47fa7e",
+          
+"warning": "#ffbb00",
+          
+"error": "#ff7ca0",
+          },
+        },
+      ],
+    },
+    plugins: [
+      require('daisyui'),
+    ],
+    //...
+  }
