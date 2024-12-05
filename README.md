@@ -73,12 +73,12 @@
 
 
 ### 📫 Contact Me
-- **Email**: harshitj183@gmail.com
+- **Email**: harshitj183@hotmail.com
 - **Mobile Number**: +91 9793009391
 - **Telegram**: [![Telegram](https://img.icons8.com/material-outlined/24/000000/telegram-app.png)](https://t.me/harshitj183)
 
 ---
 [![harshitj183's GitHub | Languages Over Time](https://stats.quira.sh/harshitj183/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=harshitj183)
-Always exploring, learning, and contributing!!
+Always exploring, learning, and contributing!!!
 
 
