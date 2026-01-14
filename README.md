@@ -6,7 +6,7 @@
 - Passed 10th and 12th from **S Tulsi Inter College** (UP Board)
 
 ### 🌱 Learning
-- HTML, CSS, JavaScript, Python, and DSA
+- HTML, CSS, JavaScript, Python, and DSA REACT ,MERN ,NEXTJS
 - Passionate about web development, freelancing, and contributing to open-source projects
 
 ### 💻 Skills
