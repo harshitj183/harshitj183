@@ -6,11 +6,11 @@
 - Passed 10th and 12th from **S Tulsi Inter College** (UP Board)
 
 ### 🌱 Learning
-- HTML, CSS, JavaScript, Python, and DSA REACT ,MERN ,NEXTJS
+- HTML, CSS, JavaScript, C++ and DSA REACT ,MERN ,NEXTJS
 - Passionate about web development, freelancing, and contributing to open-source projects
 
 ### 💻 Skills
-- **Languages**: HTML, CSS, JavaScript, Python, C++
+- **Languages**: HTML, CSS, JavaScript,  , C++
 - **Web Development**: SEO, blogging, Google Search Console, blog management, domain management, Progressive Web Apps (PWA)
 - **Tools**: Google Cloud, Firebase, Canva, Blogger, WordPress, Cloudflare, Replit, GitHub, some knowledge of Figma and Adobe tools
  
