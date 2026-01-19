@@ -9,6 +9,8 @@
 - HTML, CSS, JavaScript, C++ and DSA REACT ,MERN ,NEXTJS
 - Passionate about web development, freelancing, and contributing to open-source projects
 
+
+
 ### 💻 Skills
 - **Languages**: HTML, CSS, JavaScript,  , C++
 - **Web Development**: SEO, blogging, Google Search Console, blog management, domain management, Progressive Web Apps (PWA)
