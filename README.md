@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Harshit Jaiswal (@harshitj183)
 
-### 🎓 About Me 
+### 🎓 About Me    
 - **Computer Science and Engineering student** at KR Mangalam University, Haryana, Delhi NCR
 - Currently in my **third year** of studies (Class of 2027)
 - Passed 10th and 12th from **S Tulsi Inter College** (UP Board)
