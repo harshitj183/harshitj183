@@ -17,6 +17,14 @@
   </p>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Specialist+%F0%9F%9A%80;250%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;24%2B+Projects+Delivered+%F0%9F%8E%AF;Always+Learning+%26+Building+%F0%9F%92%BB" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -180,7 +188,39 @@ const harshit = {
   </a>
 </div>
 
+
+
+### 🔥 What I'm Currently Working On
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitj183&layout=compact&theme=tokyonight" alt="Coding Activity" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitj183&theme=tokyonight" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitj183&theme=tokyonight" alt="Repos Per Language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitj183&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commits-per-time?username=harshitj183&theme=tokyonight" alt="Commits Per Time" />
+</div>
+
 ---
+
+### ⚡ Fun Fact Corner
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">
+  
+  <p><b>🎯 "First, solve the problem. Then, write the code." - John Johnson</b></p>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Coffee-%E2%98%95%EF%B8%8F%20Lover-brown?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB%20Addict-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Learning-%F0%9F%93%9A%20Never%20Stops-green?style=for-the-badge" />
+  </p>
+</div>---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
