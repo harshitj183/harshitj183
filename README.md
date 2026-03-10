@@ -1,87 +1,68 @@
-## 👋 Hi, I'm Harshit Jaiswal (@harshitj183)
+# Hi, I'm Harshit Jaiswal (@harshitj183)
 
-### 🎓 About Me    
+## 📋 Professional Summary
+Computer Science Engineering Student and Project Manager specializing in Full Stack Web Development (MERN Stack). Successfully delivered 24 freelance projects across diverse industry domains. Proficient in C, React, and Next.js. Solved 250+ LeetCode problems, showcasing advanced proficiency in Data Structures and Algorithms (DSA). Dedicated to building and deploying high-performance, scalable web applications.
 
-- **Computer Science and Engineering student** at KR Mangalam University, Haryana, Delhi NCR
-- Currently in my **third year** of studies (Class of 2027)
-- Passed 10th and 12th from **S Tulsi Inter College** (UP Board)
+## 📌 About Me
+- 💻 **Current Role**: Computer Science and Engineering student at KR Mangalam University, Haryana, Delhi NCR
+- 🎓 **Education**: Currently in third year of studies (Class of 2027)
+- 📚 **Background**: Passed 10th and 12th from S Tulsi Inter College (UP Board)
+- 🌱 **Passion**: Web development, freelancing, and contributing to open-source projects
 
-### 🌱 Learning
-- HTML, CSS, JavaScript, C++ and DSA REACT ,MERN ,NEXTJS
+## 🎯 Learning
+- HTML, CSS, JavaScript, C++ and DSA, REACT, MERN, NEXTJS
 - Passionate about web development, freelancing, and contributing to open-source projects
 
+## 💼 Skills
+### Languages
+- HTML, CSS, JavaScript, C++
 
+### Web Development
+- SEO, blogging, Google Search Console, blog management, domain management, Progressive Web Apps (PWA)
 
-### 💻 Skills
-- **Languages**: HTML, CSS, JavaScript,  , C++
-- **Web Development**: SEO, blogging, Google Search Console, blog management, domain management, Progressive Web Apps (PWA)
-- **Tools**: Google Cloud, Firebase, Canva, Blogger, WordPress, Cloudflare, Replit, GitHub, some knowledge of Figma and Adobe tools
- 
-### 📜 Certifications
-1. <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" width="20"/> Certificate of Participation in Round 1: The Mind Maze of Nestlé Leaders League - Genesis from Unstop (June 2024) - Credential ID: 0e955a1a-89e8-471e-b6f1-4a609cccc7ec
-2. <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" width="20"/> Introduction to Career Skills in Software Development from LinkedIn (June 2024) - Skills: Career Management, Software Development, Tech Career Skills
-3. <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" width="20"/> Programming Foundations: Fundamentals from LinkedIn (June 2024) - Skills: Programming
-4. <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" width="20"/> Certificate of Participation in Samsung Galaxy AI Treasure Hunt from Unstop (May 2024) - Credential ID: 7ad266d3-bf16-4b91-8a34-a5d33744c000
-5. <img src="https://img.icons8.com/ios-filled/50/000000/certificate.png" width="20"/> Certificate of Participation in Consultathon 4.0 from Unstop (November 2023) - Credential ID: 82a34730-52f4-444c-ab73-f5ed9489a564
+### Tools & Platforms
+- Google Cloud, Firebase, Canva, Blogger, WordPress, Cloudflare, Replit, GitHub, Figma, Adobe tools
 
-### 🌐 Online Presence
-- **GitHub**: [![GitHub](https://img.icons8.com/material-outlined/24/000000/github.png)](https://github.com/harshitj183)
-- **Twitter**: [![Twitter](https://img.icons8.com/material-outlined/24/000000/twitter.png)](https://twitter.com/harshitj183)
-- **Instagram**: [![Instagram](https://img.icons8.com/material-outlined/24/000000/instagram-new.png)](https://instagram.com/harshitj183)
+## 🏆 Experience
+### Project Manager - SenpaiHost (May 2025 - Jan 2026)
+- Orchestrated web development lifecycles for 10 concurrent projects
+- Improved delivery efficiency by 20%
+- Directed project timelines across 5-member team with 100% on-time delivery
+- Conducted comprehensive code reviews, reducing post-deployment bugs by 15%
 
-### 🚀 Interests
-- Math, programming, and development
-- Exploring new technologies and exciting projects
-- Dream job: Working as a freelancer and in organizations like DRDO and ISRO to contribute significantly to my country
-# 📊 GitHub Stats:
-<div  >
-<img src="https://github-readme-stats.vercel.app/api?username=harshitj183&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitj183&theme=dark&hide_border=false" /><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj183&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
+### WordPress Developer Intern - SenpaiHost (Aug 2024 - Sep 2024)
+- Built dynamic WordPress websites with custom themes and plugins
+- Reduced page load times by 40%, improving SEO rankings
+- Increased mobile user engagement by 25%
 
-<div  >
-<span><a href="https://wakatime.com/@harshitj183"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitj183&theme=dark&layout=compact&langs_count=6" /></a></span>
-</div>
+### Freelance Web Developer (Jan 2020 - Present)
+- Produced 24 full-stack web projects for diverse clients
+- Boosted organic search traffic by 30% through SEO strategies
+- Maintained 99.9% server uptime across 15 domains
 
-## 🏆 GitHub Trophies
-<div  >
-<img src="https://github-profile-trophy.vercel.app/?username=harshitj183&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
+## 📜 Certifications
+1. **Tata Group - Cybersecurity Analyst Job Simulation** (Apr 2025)
+2. **Certificate of Participation in Samsung Galaxy AI Treasure Hunt** (May 2024) - Unstop
+3. **LeetCode - 100 Days Badge** (2025)
+4. **Introduction to Career Skills in Software Development** (LinkedIn - June 2024)
 
-### ✍️ Random Dev Quote
-<div  >
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
+## 🚀 Featured Projects
+- **Unified College Interaction System** - React, Node.js, MongoDB
+- **Multi-Search Extension** - JavaScript, Browser API (4.5★ rating)
+- **KRMU Search Engine** - HTML, CSS, JavaScript, API
+- **Video Speed Controller Extension** - JavaScript (4.85★ rating, 200+ daily users)
+- **Real-time Object Detector** - Deep Learning, Computer Vision
 
-### 🔝 Top Contributed Repo
-<div >
-<img src="https://github-contributor-stats.vercel.app/api?username=harshitj183&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
-</div>
- 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshitj183&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-## 💰 You can help me by Donating
-<div>
-<a href="https://buymeacoffee.com/harshitj183"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
-<a href="https://paypal.me/harshitj183.in"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-<a href="https://patreon.com/harshitj183"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
-<a href="https://ko-fi.com/harshitj183"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-</div>
-
-<p>
-<img src="https://github.com/harshitj183/harshitj183/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-
-
-
-### 📫 Contact Me
-- **Email**: harshitj183@hotmail.com
-- **Mobile Number**: +91 9793009391
-- **Telegram**: [![Telegram](https://img.icons8.com/material-outlined/24/000000/telegram-app.png)](https://t.me/harshitj183)
+## 🌐 Connect With Me
+- **LinkedIn**: [linkedin.com/in/harshitj183](https://linkedin.com/in/harshitj183)
+- **LeetCode**: [leetcode.com/harshitj183](https://leetcode.com/harshitj183)
+- **Portfolio**: [harshitj183.in](https://harshitj183.in)
+- **Email**: harshitj183@outlook.com
+- **Phone**: +91 97930 09391
 
 ---
-[![harshitj183's GitHub | Languages Over Time](https://stats.quira.sh/harshitj183/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=harshitj183)
-Always exploring, learning, and contributing!!!
 
-
+✨ **Open to collaborations and exciting opportunities!** Feel free to reach out if you'd like to discuss projects, ideas, or opportunities together.
