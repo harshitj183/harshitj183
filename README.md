@@ -1,3 +1,26 @@
+<!-- Professional Badges & Stats Section -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-Web%20Dev%20Specialist-blue?style=for-the-badge&logo=code&logoColor=white" alt="Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitj183&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj183&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitj183&theme=react" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitj183&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+
 # Hi, I'm Harshit Jaiswal (@harshitj183)
 
 ## 📋 Professional Summary
@@ -16,12 +39,36 @@ Computer Science Engineering Student and Project Manager specializing in Full St
 ## 💼 Skills
 ### Languages
 - HTML, CSS, JavaScript, C++
+- 
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=flat&logo=html5" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-red?style=flat&logo=cplusplus" alt="C++" />
+</div>
+
 
 ### Web Development
 - SEO, blogging, Google Search Console, blog management, domain management, Progressive Web Apps (PWA)
+- 
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MERN-Stack-green?style=flat" alt="MERN Stack" />
+</div>
+
 
 ### Tools & Platforms
 - Google Cloud, Firebase, Canva, Blogger, WordPress, Cloudflare, Replit, GitHub, Figma, Adobe tools
+- 
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress" />
+</div>
+
 
 ## 🏆 Experience
 ### Project Manager - SenpaiHost (May 2025 - Jan 2026)
