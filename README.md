@@ -22,8 +22,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500"></p>
 
 ---
 
