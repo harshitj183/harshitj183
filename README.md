@@ -27,7 +27,7 @@
 Computer Science Engineering Student and Project Manager specializing in Full Stack Web Development (MERN Stack). Successfully delivered 24 freelance projects across diverse industry domains. Proficient in C, React, and Next.js. Solved 250+ LeetCode problems, showcasing advanced proficiency in Data Structures and Algorithms (DSA). Dedicated to building and deploying high-performance, scalable web applications.
 
 ## 📌 About Me
-- 💻 **Current Role**: Computer Science and Engineering student at KR Mangalam University, Haryana, Delhi NCR
+- 💻 **Current Role**: Computer Science and Engineering student at KR Mangalam University, Sohna, Haryana, India
 - 🎓 **Education**: Currently in third year of studies (Class of 2027)
 - 📚 **Background**: Passed 10th and 12th from S Tulsi Inter College (UP Board)
 - 🌱 **Passion**: Web development, freelancing, and contributing to open-source projects
@@ -113,3 +113,31 @@ Computer Science Engineering Student and Project Manager specializing in Full St
 ---
 
 ✨ **Open to collaborations and exciting opportunities!** Feel free to reach out if you'd like to discuss projects, ideas, or opportunities together.
+
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitj183/harshitj183/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitj183/harshitj183/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harshitj183/harshitj183/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 📊 Languages Used Over Time
+
+<div align="center">
+  <img src="https://wakatime.com/badge/user/harshitj183.svg" alt="WakaTime Badge" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitj183&theme=react-dark&bg_color=1a1a1a&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code%20With-Love-ff69b4?style=for-the-badge" alt="Made with Love" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-brightgreen?style=for-the-badge" alt="Status" />
+</div>
