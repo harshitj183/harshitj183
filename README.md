@@ -22,8 +22,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="500"></p>
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 ---
 
 ### 👨‍💻 About Me
@@ -210,8 +209,7 @@ const harshit = {
 ### ⚡ Fun Fact Corner
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400">
-  
+  <img src="https://readme-jokes.vercel.app/api?bgColor=%23667eea&textColor=%23ffffff&qColor=%23a177f7&aColor=%2364f4ac&borderColor=%23764ba2" width="400">  
   <p><b>🎯 "First, solve the problem. Then, write the code." - John Johnson</b></p>
   
   <p>
