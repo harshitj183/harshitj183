@@ -221,7 +221,7 @@ const harshit = {
     <img src="https://img.shields.io/badge/Code-%F0%9F%92%BB%20Addict-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Learning-%F0%9F%93%9A%20Never%20Stops-green?style=for-the-badge" />
   </p>
-</div>---
+</div> 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
