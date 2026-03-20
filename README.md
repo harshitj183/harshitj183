@@ -127,11 +127,11 @@ const harshit = {
 
 | Project | Tech Stack | Link |
 |---------|------------| ------ |
-| **College System** | MERN | [🔗](https://github.com/harshitj183) |
-| **Multi-Search Extension** | JS, API | [🔗](https://github.com/harshitj183) |
-| **KRMU Search** | HTML, JS | [🔗](https://github.com/harshitj183) |
-| **Speed Controller** | JavaScript | [🔗](https://github.com/harshitj183) |
-| **Object Detector** | DL, CV | [🔗](https://github.com/harshitj183) |
+| **College System** | MERN | [🔗](https://github.com/harshitj183/Cunified-college-interaction-system-web)
+| **Multi-Search Extension** | JS, API | [🔗](https://github.com/harshitj183)/MulMultiSearch.Extension )
+| **KRMU Search** | HTML, JS | [🔗](https://github.c/MultiSearch.Extension )
+| **Speed Controller** | JavaScript | [🔗](https://github.c/Video-Speed-Controller.Extension )
+| **Object Detector** | DL, CV | [🔗](https://github./Object-Detector-DLM-WEB ) 
 
 ### 🏆 Certifications
 
