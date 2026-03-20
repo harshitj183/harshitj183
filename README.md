@@ -130,8 +130,8 @@ const harshit = {
 | **College System** | MERN | [🔗](https://github.com/harshitj183/unified-college-interaction-system-web)
 | **Multi-Search Extension** | JS, API | [🔗](https://github.com/harshitj183/MultiSearch.Extension)
 | **KRMU Search** | HTML, JS | [🔗](https://github.com/harshitj183/KRMU-Search-Engine-CSE-API.WEB)
-| **Speed Controller** | JavaScript | [🔗](https://github.c/Video-Speed-Controller.Extension)
-| **Object Detector** | DL, CV | [🔗](https://github./Object-Detector-DLM-WEB) 
+| **Speed Controller** | JavaScript | [🔗](https://github.com/Video-Speed-Controller.Extension)
+| **Object Detector** | DL, CV | [🔗](https://github.com/Object-Detector-DLM-WEB) 
 
 ### 🏆 Certifications
 
