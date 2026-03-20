@@ -29,7 +29,7 @@
 
 ```javascript
 const harshit = {
-    location: "Sohna, Haryana, India",
+    location: "Delhi NCR, India",
     education: "CSE @ KR Mangalam University (2023-2027)",
     currentFocus: ["Full Stack Development", "DSA", "System Design"],
     workExperience: [
