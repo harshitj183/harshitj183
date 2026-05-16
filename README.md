@@ -38,7 +38,7 @@ const harshit = {
         "Freelance Web Developer (24+ projects)"
     ],
     achievements: {
-        leetcode: "250+ problems solved",
+        leetcode: "300+ problems solved",
         projects: "24 full-stack projects delivered",
         certifications: ["Tata Cybersecurity", "LinkedIn Career Skills"]
     },
@@ -136,7 +136,7 @@ const harshit = {
 ### 🏆 Certifications
 
 ```
-🏆 LeetCode 250+ Problems
+🏆 LeetCode 300+ Problems
 🎓 Tata Cybersecurity Simulation
 🎖️ Samsung AI Treasure Hunt
 📚 LinkedIn Career Skills
