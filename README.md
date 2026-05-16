@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Specialist+%F0%9F%9A%80;250%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;24%2B+Projects+Delivered+%F0%9F%8E%AF;Always+Learning+%26+Building+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full+Stack+Developer+%7C+MERN+Specialist+%F0%9F%9A%80;300%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;24%2B+Projects+Delivered+%F0%9F%8E%AF;Always+Learning+%26+Building+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <p align="center">
