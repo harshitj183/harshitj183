@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A667eea%2C100%3A764ba2&height=200&section=header&text=Harshit%20Jaiswal&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitj183/harshitj183/main/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitj183/harshitj183/main/light.svg">
+    <img alt="Harshit Jaiswal Terminal" src="https://raw.githubusercontent.com/harshitj183/harshitj183/main/light.svg" width="100%">
+  </picture>
 </div>
 
 <div align="center">
@@ -168,13 +172,6 @@ const harshit = {
 - 📝 **Research Paper**: "Organ Donation Systems & Ethical Data" published in IJSREM (Oct 2024) [View Publication](https://ijsrem.com/)
 - 🛡️ **Cybersecurity Analyst Simulation**: Tata Group – Forage (Apr 2025)
 - 📊 **AMCAT Assessment**: Ranked among the top-performing students in the AMCAT Assessment.
-
----
-
-### 📂 Profile Customization Guides
-I have created and documented these resources detailing how to customize and deploy this interactive GitHub profile:
-- [📄 GitHub Profile Master Prompt](./documents/GitHub-Profile-Master-Prompt.pdf) — Complete guide and prompts for creating the dithered portrait, custom SVG banner, and self-hosted stats cards.
-- [📄 GitHub Profile Setup Guide](./documents/GitHub-Profile-Setup-Guide.pdf) — Step-by-step instructions on setting up repo configurations, action workflow permissions, Vercel deployments, and shields.io social badges.
 
 ---
 
