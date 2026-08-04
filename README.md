@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Harshit%20Jaiswal&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A667eea%2C100%3A764ba2&height=200&section=header&text=Harshit%20Jaiswal&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </div>
 
 <div align="center">
   <h3>🚀 SDE | 🤖 AI & Full Stack Engineer | 💼 Freelancer</h3>
   <p>
     <a href="https://harshitj183.in"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/harshitj183"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/harshitj183"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://leetcode.com/harshitj183"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
     <a href="mailto:harshitj183@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;AI+%26+Full+Stack+Engineer+%F0%9F%9A%80;400%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0;Built+20%2B+Full+Stack+Web+Applications+%F0%9F%8E%AF;Exploring+Agentic+AI+%26+LLMs+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B%3BAI+%26+Full+Stack+Engineer+%F0%9F%9A%80%3B400%2B+LeetCode+Problems+Solved+%F0%9F%A7%A0%3BBuilt+20%2B+Full+Stack+Web+Applications+%F0%9F%8E%AF%3BExploring+Agentic+AI+%26+LLMs+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -171,6 +171,13 @@ const harshit = {
 
 ---
 
+### 📂 Profile Customization Guides
+I have created and documented these resources detailing how to customize and deploy this interactive GitHub profile:
+- [📄 GitHub Profile Master Prompt](./documents/GitHub-Profile-Master-Prompt.pdf) — Complete guide and prompts for creating the dithered portrait, custom SVG banner, and self-hosted stats cards.
+- [📄 GitHub Profile Setup Guide](./documents/GitHub-Profile-Setup-Guide.pdf) — Step-by-step instructions on setting up repo configurations, action workflow permissions, Vercel deployments, and shields.io social badges.
+
+---
+
 ### 📊 Activity & Contributions
 
 <div align="center">
@@ -236,7 +243,7 @@ const harshit = {
 </div> 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A667eea%2C100%3A764ba2&height=120&section=footer" />
   
   <p>
     <b>⭐ From <a href="https://github.com/harshitj183">harshitj183</a> with ❤️</b>
