@@ -119,16 +119,12 @@ const harshit = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshitj183&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitj183&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://gh-readme-stats.vercel.app/api?username=harshitj183&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=harshitj183&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitj183&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitj183&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com/?user=harshitj183&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -177,10 +173,6 @@ const harshit = {
 
 ### 📊 Activity & Contributions
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitj183&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshitj183/harshitj183/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshitj183/harshitj183/output/github-contribution-grid-snake.svg">
@@ -210,7 +202,7 @@ const harshit = {
 ### 🔥 What I'm Currently Working On
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitj183&layout=compact&theme=tokyonight" alt="Coding Activity" />
+  <img src="https://gh-readme-stats.vercel.app/api/wakatime?username=harshitj183&layout=compact&theme=tokyonight" alt="Coding Activity" />
 </div>
 
 <div align="center">
